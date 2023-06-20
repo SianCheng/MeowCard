@@ -36,7 +36,7 @@ const open = () => {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
 
-    <Navbar/>
+    <Navbar />
     <nav class="row MB">
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
@@ -69,7 +69,7 @@ const open = () => {
 
         <div id="app" class="row col-lg-10 ">
             <h1 class=" bg- col-12 MTB5">
-                <strong>★新商品★</strong> 
+                <strong>★新商品★</strong>
                 <!-- <img src="../images/Tabletop Role Playing Game.png" alt="" class="StoreWordCenter"> -->
             </h1>
             <div class="col-lg-3 center box">
@@ -201,13 +201,15 @@ const open = () => {
     <FT />
 </template>
 <style scoped>
-.MTB5{
+.MTB5 {
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.MB15{
+
+.MB15 {
     margin-bottom: 150px;
 }
+
 h3 {
     font-family: 'Noto Sans TC', sans-serif;
 }

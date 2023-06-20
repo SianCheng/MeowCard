@@ -42,6 +42,7 @@ const handleClose = (key: string, keyPath: string[]) => {
 }
 
 .buttonSize1 {
+    font-size: 30px;
     width: 100%;
     height: 40px;
     display: block;
@@ -63,6 +64,7 @@ const handleClose = (key: string, keyPath: string[]) => {
 }
 
 .buttonSize2 {
+    font-size: 30px;
     width: 100%;
     height: 40px;
     display: block;
@@ -84,6 +86,7 @@ const handleClose = (key: string, keyPath: string[]) => {
 }
 
 .buttonSize3 {
+    font-size: 30px;
     width: 100%;
     height: 40px;
     display: block;
@@ -105,6 +108,7 @@ const handleClose = (key: string, keyPath: string[]) => {
 }
 
 .buttonSize4 {
+    font-size: 30px;
     width: 100%;
     height: 40px;
     display: block;

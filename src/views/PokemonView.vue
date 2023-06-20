@@ -31,11 +31,11 @@ const open = () => {
 
 <template>
     <!-- <Adver /> -->
+    <Navbar />
     <nav class="row">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
-        <Navbar />
         <div id="app" class="row col-lg-10">
             <!-- <h1 class="StoreWordCenter bg- col-12">
                 <img src="../images/Tabletop Role Playing Game.png" alt="" class="StoreWordCenter">
